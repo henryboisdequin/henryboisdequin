@@ -1,5 +1,3 @@
-### Hi there I'm Henry 👋
-
 <!--
 **henryboisdequin/henryboisdequin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My Name is Henry Boisdequin. I have been swimming for 4 years and internationally for 3. I have recently taken up programming in the past year and have loved the problem solving and challenge of coding. My 2 favourite areas of programming is Machine Learning & AI and Web Development.
+![Python](https://gph.is/g/EvYQwzn)
