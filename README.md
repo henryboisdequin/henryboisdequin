@@ -12,8 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Gifs/python.gif" width="100" height="100">
-<img src="Gifs/react.gif" width="100" height="100">
-<img src="Gifs/AI.gif" width="100" height="100">
-<img src="Gifs/vscode.gif" width="100" height="100">
-<img src="Gifs/git.gif" width="100" height="100">
+<img src="Gifs/python.gif" width="100" height="100"> <img src="Gifs/react.gif" width="100" height="100"> <img src="Gifs/AI.gif" width="100" height="100"> <img src="Gifs/vscode.gif" width="100" height="100"> <img src="Gifs/git.gif" width="100" height="100">
