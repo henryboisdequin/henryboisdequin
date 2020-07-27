@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Python](Gifs/python.gif)
+![Python](Gifs/python.gif =100x100)
 ![React](Gifs/react.gif)
 ![AI](Gifs/AI.gif)
 ![VsCode](Gifs/vscode.gif)
