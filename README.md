@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Python](Gifs/python.gif)
+![React](Gifs/react.gif)
+![AI](Gifs/AI.gif)
+![VsCode](Gifs/vscode.gif)
+![Git](Gifs/git.gif)
