@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryboisdequin&layout=compact" width="500" height="auto">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryboisdequin&layout=compact&width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-Current Projects:
+Currently Working On:
+- [ ] 
