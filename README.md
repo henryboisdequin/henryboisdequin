@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## 🔭 What I’m Currently Working On 🔭
 - [ ] Learning React
-
+- [ ] Learning SQL
