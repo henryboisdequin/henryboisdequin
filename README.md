@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello There 👋 
+## 👋 Hello There 👋 
 Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning developer and swimmer. I have been programming for 4 months now and have been swimmming competitively for 4 years. 
 
 ## ⚡ My Favourite Tools, Technologies, and Programming Langauges ⚡
@@ -22,6 +22,7 @@ Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning 
 ## 🔭 What I’m Currently Working On 🔭
 - [ ] Learning React
 - [ ] Learning SQL
+- [ ] Looking for open source projects to contribute to
 
 ## 🎯 Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
