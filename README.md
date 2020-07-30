@@ -21,11 +21,11 @@ Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning 
 
 ## What I’m Currently Working On 🔭
 Currently:
-- [ ] Learning React
-- [ ] Looking for open source projects to contribute to
+- [ ] Working on small React projects to gain practice
 
 Done in the Past Week:
 - [x] Learning SQL
+- [x] Learning React
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
