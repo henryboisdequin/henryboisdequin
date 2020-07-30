@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - [ ] Learning React
 - [ ] Learning SQL
 
-## 🌳 Github Stats 🌳
+## 🎯 Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
