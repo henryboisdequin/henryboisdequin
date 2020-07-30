@@ -23,6 +23,7 @@ Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning 
 Currently:
 - [ ] Learning React
 - [ ] Looking for open source projects to contribute to
+
 Done in the Past Week:
 - [x] Learning SQL
 
