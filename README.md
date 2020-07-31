@@ -30,3 +30,6 @@ Done in the Past Week:
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
+
+## Top Languages I Use on Github 👨‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryboisdequin)](https://github.com/anuraghazra/github-readme-stats)
