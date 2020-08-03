@@ -22,7 +22,6 @@ Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning 
 ## What I’m Currently Working On 🔭
 Currently:
  - [ ] Online Chat App w/ React & Socket.io
- - [ ] Traffic Sign Classifier w/ CNNs
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
