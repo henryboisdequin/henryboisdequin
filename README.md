@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello There 👋 
-Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning developer and swimmer. I have been programming for 4 months now and have been swimmming competitively for 4 years. 
+Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine learning developer and swimmer. I have been programming for 4 months now and have been swimmming competitively for 4 years. 
 
 ## My Favourite Technologies ⚡
 
