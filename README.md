@@ -20,7 +20,7 @@ Hello! My name is Henry. I am a 12 year old frontend/fullstack/machine learning 
 React 🚀 • Tensorflow 👽 • Deno 🦕 • Postgres 🏦
 
 ## What I’m Currently Working On 🔭
-Currently:
+
  - [ ] Learning Deno
 
 ## Github Stats 🎯
