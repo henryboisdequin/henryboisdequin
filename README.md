@@ -21,7 +21,7 @@ React 🚀 • Tensorflow 👽 • Deno 🦕 • Postgres 🏦
 
 ## What I’m Currently Working On 🔭
 
- - [ ] Planning a private project
+ - [ ] [SWE Project Context](https://www.algoexpert.io/swe-project-contests/2020-summer)
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=radical)
