@@ -19,7 +19,7 @@ Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine l
 
 React 🚀 • Tensorflow 👽 • Deno 🦕 • Postgres 🏦
 
-## What I’m Currently Working On 🔭
+## What I’m Currently Working On 🔭 
 
  - [ ] [SWE Project Context](https://www.algoexpert.io/swe-project-contests/2020-summer)
 
