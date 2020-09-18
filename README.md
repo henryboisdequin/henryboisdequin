@@ -21,7 +21,7 @@ React/Redux 🚀 • Tensorflow 👽 • Deno 🦕 • Postgres 🏦 • Firebas
 
 ## What I’m Currently Working On 🔭 
 
- - [ ] Search Engine (Firebase, React)
+ - AI Plays Football in Google Football Environment
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=material-palenight)
