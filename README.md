@@ -21,7 +21,7 @@ React/Redux 🚀 • Tensorflow 👽 • Deno 🦕 • Firebase 🏦
 
 ## What I’m Currently Working On 🔭 
 
- - Learning React Native
+ - Blog
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=material-palenight)
