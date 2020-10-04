@@ -17,7 +17,7 @@ Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine l
 
 ## My Favourite Technologies ⚡
 
-React 🚀 • Tensorflow 👽 • Deno/Node.js 🦕 • Postgres 🏦 • GraphQL 📈 • Next.js ⏭️
+React 🚀 • Tensorflow 👽 • Deno/Node.js 🦕 • Postgres 🏦 • GraphQL/Apollo 📈 • Next.js ⏭️
 
 ## What I’m Currently Working On 🔭 
 
