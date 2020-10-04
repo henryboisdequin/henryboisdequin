@@ -21,7 +21,7 @@ React 🚀 • Tensorflow 👽 • Deno/Node.js 🦕 • Postgres 🏦 • Graph
 
 ## What I’m Currently Working On 🔭 
 
- - Blog
+ - [Blog](https://github.com/henryboisdequin/Blog)
 
 ## Github Stats 🎯
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=material-palenight)
