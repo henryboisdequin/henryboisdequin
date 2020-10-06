@@ -17,7 +17,7 @@ Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine l
 
 ## My Stack ⚡
 
-<h1>Frontend:</h1>
+<h4>Frontend:</h4>
 
 React 🚀 
 
@@ -27,13 +27,13 @@ Next.js ⏭️
 
 Tensorflow 👽 
 
-<h1>Backend</h1>:
+<h4>Backend</h4>:
 
 Node.js 💻 
 
 GraphQL/Apollo 📈 
 
-<h1>Database</h1>:
+<h4>Database</h4>:
 
 Postgres 🏦 
 
