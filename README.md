@@ -15,9 +15,22 @@ Here are some ideas to get you started:
 ## Hello There 👋 
 Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine learning developer and swimmer. I have been programming for 4 months now and have been swimmming competitively for 4 years. 
 
-## My Favourite Technologies ⚡
+## My Favourite Technology Stack ⚡
 
-React 🚀 • Tensorflow 👽 • Deno/Node.js 🦕 • Postgres 🏦 • GraphQL/Apollo 📈 • Next.js ⏭️
+**Frontend:**
+React 🚀 
+Next.js ⏭️
+
+**ML:**
+Tensorflow 👽 
+
+**Backend:**
+Node.js 💻 
+GraphQL/Apollo 📈 
+
+**Database:**
+Postgres 🏦 
+Redis 🔴
 
 ## What I’m Currently Working On 🔭 
 
