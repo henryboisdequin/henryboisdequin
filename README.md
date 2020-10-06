@@ -39,6 +39,12 @@ Postgres 🏦
 
 Redis 🔴
 
+<h3>Testing</h3>
+
+Jest ✅
+Pytest ✅
+Apollo Testing ✅
+
 ## What I’m Currently Working On 🔭 
 
  - [Blog](https://github.com/henryboisdequin/Blog)
