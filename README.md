@@ -12,36 +12,105 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello There 👋 
-Hello! My name is Henry. I am a 12 year old frontend/backend/fullstack/machine learning developer and swimmer. I have been programming for 4 months now and have been swimmming competitively for 4 years. 
+<h2>Hello/Bonjour I am Henry Boisdequin!</h2>
 
-## My Stack ⚡
+![Github Followers](https://img.shields.io/github/followers/henryboisdequin?style=social)
 
-<h3>Frontend 🚀</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-React  
+```typescript
+const henryBoisdequin: human = {
+    from: ["philippines", "belgium"],
+    languages: ["typescript/javascript", "python"],
+    askMeAbout: ["web dev", "machine learning", "fullstack projects", "swimming"],
+    technologies: {
+        mobileApp: ["react native"],
+        frontEnd: 
+            js: ["react.js", "next.js"],
+            css: ["bootstrap", "chakra-ui", "saas"]
+        },
+        backEnd: {
+            js: ["node", "express", "graphql", "typeorm"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "docker"],
+        databases: ["postgresql", "redis"],
+        otherTools: ["firebase", "tensorflow", "keras", "numpy", "pygame"]
+    },
+    currentFocus: "Fullstack Blog Site",
+    hobbies: ["swimming", "programming"],
+};
+```
 
-Next.js 
+---
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-677-blue)
 
-<h3>ML 👽</h3>
+**🐱 My Github Data** 
 
-Tensorflow  
+> 🏆 641 Contributions in the Year 2020
+ > 
+> 📦 333.2 kB Used in Github's Storage 
+ > 
+> 📜 32 Public Repositories
+ > 
+> 🔑 18 Private Repositories 
 
-<h3>Backend 📈</h3>
+**I'm a Morning Person 🌞** 
 
-Node.js 
+```text
+🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+🌆 Daytime    180 commits    ████████░░░░░░░░░░░░░░░░░   35.16% 
+🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   29.3% 
+🌙 Night      109 commits    █████░░░░░░░░░░░░░░░░░░░░   21.29%
 
-GraphQL/Apollo 
+```
+📅 **I'm Most Productive on Sunday** 
 
-<h3>Database 🏦</h3> 
+```text
+Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
+Tuesday      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
+Wednesday    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
+Thursday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
+Friday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Sunday       114 commits    █████░░░░░░░░░░░░░░░░░░░░   22.27%
 
-Postgres 
+```
 
-Redis
 
-## What I’m Currently Working On 🔭 
+📊 **This Week I Spent My Time On** 
 
- - [Blog](https://github.com/henryboisdequin/Blog)
+```text
+⌚︎ Time Zone: Asia/Kolkata
 
-## Github Stats 🎯
-![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henryboisdequin&show_icons=true&theme=material-palenight)
+💬 Programming Languages: 
+JavaScript               19 hrs 15 mins      ████████████████████░░░░░   83.36% 
+JSON                     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+WebStorm                 23 hrs 5 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  23 hrs 5 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
