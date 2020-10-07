@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Github Followers](https://img.shields.io/github/followers/henryboisdequin?style=social)
 
-[![Henry Boisdequin Medium](https://github-readme-medium.vercel.app/?username=henryboisdequin)](https://medium.com/@henryboisdequin)
+[![Henry Boisdequin Medium](https://github-readme-medium.vercel.app/?username=boisdequinhenry19)](https://medium.com/@boisdequinhenry19)
 
 ### A little more about me...  
 
