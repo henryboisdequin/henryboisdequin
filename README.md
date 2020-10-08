@@ -34,8 +34,8 @@ const henryBoisdequin: human = {
     languages: ["typescript/javascript", "python"],
     askMeAbout: ["web dev", "machine learning", "fullstack projects", "swimming"],
     technologies: {
-        mobileApp: ["react native"],
-        frontEnd: 
+        mobile: ["react native"],
+        frontEnd: {
             js: ["react.js", "next.js"],
             css: ["bootstrap", "chakra-ui", "saas"]
         },
