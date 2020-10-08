@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <a href="https://stackoverflow.com/users/13753914/henry"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png" alt="StackOverFlow" href="https://stackoverflow.com/users/13753914/henry" width="20" height="auto"></img></a> <a href="https://medium.com/@boisdequinh"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" alt="Medium" href="https://medium.com/@boisdequinh" width="20" height="auto"></img></a>
 
+<!-- https://iconmonstr.com/ -->
+
 </p>
 
 [![Henry Boisdequin Medium](https://github-readme-medium.vercel.app/?username=boisdequinh&&limit=2)](https://medium.com/@boisdequinh)
