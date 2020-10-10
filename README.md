@@ -128,7 +128,5 @@ CSS                      1 repos             █░░░░░░░░░░�
 
 
 
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+<!--END_SECTION:waka--
 
