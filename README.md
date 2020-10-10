@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 [![Henry Boisdequin Medium](https://github-readme-medium.vercel.app/?username=boisdequinh&&limit=2)](https://medium.com/@boisdequinh)
 
-### A little more about me...  
-
+<details>
+<summary>A little more about me... </summary>
+<br>
+    
 ```typescript
 const henryBoisdequin: human = {
     from: ["philippines", "belgium"],
@@ -52,6 +54,8 @@ const henryBoisdequin: human = {
     hobbies: ["swimming", "programming"],
 };
 ```
+
+</details>
 
 ---
 <!--START_SECTION:waka-->
