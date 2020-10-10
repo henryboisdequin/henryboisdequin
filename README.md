@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ```typescript
 const henryBoisdequin: human = {
     from: ["philippines", "belgium"],
+    age: 12,
     languages: ["typescript/javascript", "python"],
     askMeAbout: ["web dev", "machine learning", "fullstack projects", "swimming"],
     technologies: {
