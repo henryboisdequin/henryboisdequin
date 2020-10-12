@@ -18,7 +18,8 @@ Here are some ideas to get you started:
     
 ![Github Followers](https://img.shields.io/github/followers/henryboisdequin?style=social) 
 
-<a href="https://stackoverflow.com/users/13753914/henry"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png" alt="StackOverFlow" href="https://stackoverflow.com/users/13753914/henry" width="20" height="auto"></img></a> <a href="https://medium.com/@boisdequinh"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" alt="Medium" href="https://medium.com/@boisdequinh" width="20" height="auto"></img></a>
+<a href="https://stackoverflow.com/users/13753914/henry"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png" alt="StackOverFlow" href="https://stackoverflow.com/users/13753914/henry" width="20" height="auto"></img></a> <a href="https://medium.com/@boisdequinh"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" alt="Medium" href="https://medium.com/@boisdequinh" width="20" height="auto"></img></a><a href="https://stackoverflow.com/users/13753914/henry"><img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw=s360-rw" alt="Dev.to" href="https://dev.to/henryboisdequin" width="20" height="auto"></img></a>
+
 
 <!-- https://iconmonstr.com/ -->
 
