@@ -53,7 +53,7 @@ const henryBoisdequin: human = {
         databases: ["postgresql", "redis"],
         otherTools: ["firebase", "tensorflow", "keras", "numpy", "pygame"]
     },
-    currentFocus: "Fullstack Blog Site",
+    currentFocus: "Learning React Native",
     hobbies: ["swimming", "programming"],
 };
 ```
