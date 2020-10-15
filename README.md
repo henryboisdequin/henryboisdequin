@@ -53,7 +53,7 @@ const henryBoisdequin: human = {
         databases: ["postgresql", "redis"],
         otherTools: ["firebase", "tensorflow", "keras", "numpy", "pygame"]
     },
-    currentFocus: "Learning React Native",
+    currentFocus: "Learning Flutter",
     hobbies: ["swimming", "programming"],
 };
 ```
