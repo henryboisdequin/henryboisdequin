@@ -71,7 +71,7 @@ const henryBoisdequin: human = {
 
 > 🏆 735 Contributions in the Year 2020
  > 
-> 📦 52.6 kB Used in Github's Storage 
+> 📦 52.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
