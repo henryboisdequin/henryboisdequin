@@ -16,19 +16,7 @@ Here are some ideas to get you started:
 
 <p align="middle">
     
-![Github Followers](https://img.shields.io/github/followers/henryboisdequin?style=social) 
-
-<a href="https://stackoverflow.com/users/13753914/henry"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png" alt="StackOverFlow" href="https://stackoverflow.com/users/13753914/henry" width="20" height="auto"></img></a> 
-<a href="https://medium.com/@boisdequinh"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" alt="Medium" href="https://medium.com/@boisdequinh" width="20" height="auto"></img></a><a href="https://stackoverflow.com/users/13753914/henry">
-<a href="https://dev.to/hb">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Henry Boisdequin's DEV Profile" height="30" width="30">
-</a>
-
 <!-- https://iconmonstr.com/ -->
-
-</p>
-
-[![Henry Boisdequin Medium](https://github-readme-medium.vercel.app/?username=boisdequinh&&limit=2)](https://medium.com/@boisdequinh)
 
 <details>
 <summary>A little more about me... </summary>
