@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- https://iconmonstr.com/ -->
 
 <details>
-<summary>A little more about me... </summary>
+<summary>A bit more about me... </summary>
 <br>
     
 ```typescript
@@ -42,7 +42,7 @@ const henryBoisdequin: human = {
         databases: ["postgresql", "redis"],
         otherTools: ["firebase", "tensorflow", "keras", "numpy", "pygame"]
     },
-    currentFocus: "Learning Flutter",
+    currentFocus: "PWAs, Blogging, and the Node.js/React.js/Typescript/PostgreSQL stack",
     hobbies: ["swimming", "programming"],
 };
 ```
