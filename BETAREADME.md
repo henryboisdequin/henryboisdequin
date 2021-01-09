@@ -1,11 +1,10 @@
 <div align="center">
+ 
 <h1>Hello, I'm Henry!</h1>
 
 <h2><code>$ whoami</code></h2>
 
 who am i
-
-<br>
 
 <h2>Languages 🗣️</h2>
 
@@ -36,4 +35,10 @@ who am i
 <a target="_blank" href="https://dev.to/hb"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/13753914/henry"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a target="_blank" href="https://twitter.com/henryboisdequin"><img src="https://img.shields.io/badge/henryboisdequin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+****
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
