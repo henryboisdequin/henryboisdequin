@@ -26,23 +26,23 @@ Here are some ideas to get you started:
 const henryBoisdequin: human = {
     from: ["philippines", "belgium"],
     age: 12,
-    languages: ["typescript/javascript", "python"],
+    languages: ["typescript/javascript", "python", "rust"],
     askMeAbout: ["web dev", "machine learning", "fullstack projects", "swimming"],
     technologies: {
-        mobile: ["react native"],
+        mobile: ["flutter"],
         frontEnd: {
-            js: ["react.js", "next.js"],
-            css: ["bootstrap", "chakra-ui", "saas"]
+            js: ["react.js", "next.js", "svelte"],
+            css: ["bootstrap", "chakra-ui", "tailwind css"]
         },
         backEnd: {
             js: ["node", "express", "graphql", "typeorm"],
-            python: ["flask"]
+            python: ["flask"],
         },
-        devOps: ["AWS", "docker"],
+        devOps: ["Vercel hosting + analytics", "AWS S3"],
         databases: ["postgresql", "redis"],
         otherTools: ["firebase", "tensorflow", "keras", "numpy", "pygame"]
     },
-    currentFocus: "PWAs, Blogging, and the Node.js/React.js/Typescript/PostgreSQL stack",
+    currentFocus: ["Rust", "Blogging on dev.to/hb"],
     hobbies: ["swimming", "programming"],
 };
 ```
