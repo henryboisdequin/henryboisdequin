@@ -17,8 +17,6 @@ Henry is a 12-year-old curious programmer and technical writer. With knowledge i
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<br>
-
 <h2>Find me online!</h2>
 
 <a target="_blank" href="https://dev.to/hb"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></img></a><a target="_blank" href="https://stackoverflow.com/users/13753914/henry"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a><a target="_blank" href="https://twitter.com/henryboisdequin"><img src="https://img.shields.io/badge/henryboisdequin%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
