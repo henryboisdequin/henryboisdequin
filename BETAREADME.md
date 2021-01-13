@@ -1,10 +1,9 @@
-<div align="center">
- 
+
 <h1>Hello, I'm Henry!</h1>
 
 <h2><code>$ whoami</code></h2>
 
-who am i
+Henry is a 12-year-old curious programmer and technical writer. With knowledge in Typescript (React.js, Node.js, Next.js), Python (Tensorflow, Flask), and Rust (Diesel, Rocket, Tokio), Henry is looking to share his knowledge with the programming community and develop some cool projects along the way.
 
 <h2>Languages 🗣️</h2>
 
@@ -40,5 +39,3 @@ who am i
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</div>
