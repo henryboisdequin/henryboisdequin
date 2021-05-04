@@ -23,7 +23,7 @@ Henry is a 12-year-old curious programmer and technical writer. With knowledge i
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-259346%20lines%20of%20code-blue)
 
@@ -31,7 +31,7 @@ Henry is a 12-year-old curious programmer and technical writer. With knowledge i
 
 > 🏆 362 Contributions in the Year 2021
  > 
-> 📦 54.8 kB Used in Github's Storage 
+> 📦 55.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
