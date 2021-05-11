@@ -31,7 +31,7 @@ Henry is a 12-year-old curious programmer and technical writer. With knowledge i
 
 > 🏆 362 Contributions in the Year 2021
  > 
-> 📦 56.5 kB Used in Github's Storage 
+> 📦 56.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
